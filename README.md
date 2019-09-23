@@ -5,4 +5,5 @@ Catches WooCommerce events and injects them into REMP to keep the systems in syn
 ## Config
 
 `cp env-sample .env`
+
 `pico .env`
